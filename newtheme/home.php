@@ -20,7 +20,7 @@ Template Name: Home Page
 <main>
     <section class="intro">
     <img src="<?php echo get_template_directory_uri(); ?>/assets/images/jcu.jpg" alt="Welcome Image">
-        <h1>Welcome to University Opening House!</h1>
+        <h1>Welcome to James Cook University Open House!</h1>
         <p>Come and explore what our university has to offer.</p>
     </section>
 
